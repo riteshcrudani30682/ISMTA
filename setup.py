@@ -14,7 +14,7 @@ setup(
     description="A comprehensive Indian stock market analysis tool with technical indicators and sector analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/indian_stock_analysis",
+    url="https://github.com/riteshcrudani30682/indian_stock_analysis",
     packages=find_packages(),
     include_package_data=True,
     classifiers=[
